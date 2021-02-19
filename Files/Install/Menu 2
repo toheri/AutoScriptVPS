@@ -1,9 +1,9 @@
 #!/bin/bash
 # ******************************************
 # Program: Autoscript Setup VPS 2021
-# Developer: KingKongVPN
-# Nickname: xiihaiqal
-# Modify : @xiihaiqal
+# Developer: MIKAVPN
+# Nickname: toheri
+# Modify : @toheri
 # Date: 04-01-2019
 # Last Updated: 14-01-2021
 # ******************************************
@@ -13,7 +13,7 @@ color3='\e[0m'
 
 clear
 echo -e "${color1}========================================${color3}"
-echo -e "* ${color2}SCRIPT AUTO INSTALL BY KingKongVPN ${color3}*"
+echo -e "* ${color2}SCRIPT AUTO INSTALL BY MIKAVPN ${color3}*"
 echo -e "${color1}========================================${color3}"
 echo -e " "
 echo -e "This Menu Still Under Development,Please Use Menu 1"
